@@ -1,13 +1,13 @@
 /*
 ** $Id: sch_tbldefs.h 1.3 2017/06/21 15:29:42EDT mdeschu Exp  $
 **
-**  Copyright (c) 2007-2014 United States Government as represented by the 
-**  Administrator of the National Aeronautics and Space Administration. 
-**  All Other Rights Reserved.  
+**  Copyright (c) 2007-2014 United States Government as represented by the
+**  Administrator of the National Aeronautics and Space Administration.
+**  All Other Rights Reserved.
 **
 **  This software was created at NASA's Goddard Space Flight Center.
-**  This software is governed by the NASA Open Source Agreement and may be 
-**  used, distributed and modified only pursuant to the terms of that 
+**  This software is governed by the NASA Open Source Agreement and may be
+**  used, distributed and modified only pursuant to the terms of that
 **  agreement.
 **
 ** Subsystem: Scheduler (SCH) table definitions
@@ -24,8 +24,8 @@
 **
 **************************************************************************/
 
-#ifndef _sch_tbldefs_
-#define _sch_tbldefs_
+#ifndef _sch_app_tbldefs_
+#define _sch_app_tbldefs_
 
 /*************************************************************************
 **
