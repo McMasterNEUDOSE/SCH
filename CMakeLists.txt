@@ -9,7 +9,9 @@ include_directories(fsw/src)
 
 #required for table id defs
 include_directories(${MISSION_SOURCE_DIR}/sample_defs)
-
+include_directories(${eps_MISSION_DIR}/fsw/platform_inc)
+include_directories(${comms_MISSION_DIR}/fsw/platform_inc)
+include_directories(${payload_MISSION_DIR}/fsw/platform_inc)
 
 aux_source_directory(fsw/src APP_SRC_FILES)
 
