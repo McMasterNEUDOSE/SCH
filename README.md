@@ -1,5 +1,5 @@
 ## NOTE THAT THIS REPO IS NOW ARCHIVED (AND LIKELY WILL BE DELETED IN THE FUTURE)
-While this repo was originally used as a submodule for cFS development, that is no longer needed. All future development for this app will be done in the main cFS branch.
+While this repo was originally used as a submodule for cFS development, that is no longer needed. All future development for this app will be done in the main cFS repo.
 
 # Scheduler
 
